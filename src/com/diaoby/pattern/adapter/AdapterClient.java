@@ -16,6 +16,7 @@ public class AdapterClient {
 		System.out.println("==========================end11===========");
 		System.out.println("==========================end===========");
 		System.out.println("==========================end===========");
+        System.out.println("==========================end12===========");
 	}
 
 }
