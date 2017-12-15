@@ -14,6 +14,8 @@ public class AdapterClient {
 		target = new Adapter2();
 		target.targetMethod();
 		System.out.println("==========================end11===========");
+		System.out.println("==========================end===========");
+		System.out.println("==========================end===========");
 	}
 
 }
