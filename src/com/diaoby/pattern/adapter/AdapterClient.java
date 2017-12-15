@@ -13,6 +13,7 @@ public class AdapterClient {
 		System.out.println("==========================对象适配后===========");
 		target = new Adapter2();
 		target.targetMethod();
+		System.out.println("==========================end===========");
 	}
 
 }
